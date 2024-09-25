@@ -18,7 +18,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(option =>
     //option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 
     //cloud Render
-    option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionRender"));
+    option.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnectionRender"));
 
 
 });
