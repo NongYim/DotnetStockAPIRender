@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\WorkshopAngularDotnet\\DotnetStockAPI\\wwwroot\\uploads\\99b8e67b-9301-4659-8e58-c062c437cf7f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\99b8e67b-9301-4659-8e58-c062c437cf7f.jpg"
+    },
+    {
+      "Id": "D:\\WorkshopAngularDotnet\\DotnetStockAPI\\wwwroot\\uploads\\a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a.jpg"
+    },
+    {
+      "Id": "D:\\WorkshopAngularDotnet\\DotnetStockAPI\\wwwroot\\uploads\\a3653cc9-1d38-4682-b415-7fafd0ac9e78.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a3653cc9-1d38-4682-b415-7fafd0ac9e78.jpg"
+    },
+    {
+      "Id": "D:\\WorkshopAngularDotnet\\DotnetStockAPI\\wwwroot\\uploads\\caa3ea6a-a49d-4305-99fc-c04f10635132.jpg",
+      "PackagePath": "staticwebassets\\uploads\\caa3ea6a-a49d-4305-99fc-c04f10635132.jpg"
+    },
+    {
+      "Id": "D:\\WorkshopAngularDotnet\\DotnetStockAPI\\wwwroot\\uploads\\cd0ac14f-e68b-4060-8b75-69477ed56318.png",
+      "PackagePath": "staticwebassets\\uploads\\cd0ac14f-e68b-4060-8b75-69477ed56318.png"
+    },
+    {
+      "Id": "D:\\WorkshopAngularDotnet\\DotnetStockAPI\\wwwroot\\uploads\\ff51f180-6774-42c6-9bc6-3c6f68501ab9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ff51f180-6774-42c6-9bc6-3c6f68501ab9.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.DotnetStockAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.DotnetStockAPI.props",
+      "PackagePath": "build\\DotnetStockAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DotnetStockAPI.props",
+      "PackagePath": "buildMultiTargeting\\DotnetStockAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.DotnetStockAPI.props",
+      "PackagePath": "buildTransitive\\DotnetStockAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

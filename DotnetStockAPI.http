@@ -1,0 +1,10 @@
+@DotnetStockAPI_HostAddress = http://localhost:5074/api
+
+GET {{DotnetStockAPI_HostAddress}}/Authenticate/testconnectdb
+Accept: application/json
+//ไว้ใช้ยิง api ได้ๆๆๆ ยกตัวอย่าง   ใส่ ### ด้วย บรรทัดที่ 6 8 แล้วกด send request บรรทัดที่2
+###
+# @DotnetStockAPI_HostAddress = http://localhost:5074/api
+
+# GET {{DotnetStockAPI_HostAddress}}/Authenticate/testconnectdb/
+###
