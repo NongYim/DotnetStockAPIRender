@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\WorkshopAngularDotnet\\DotnetStockAPI\\DotnetStockAPI.csproj": {}
+    "D:\\WorkshopAngularDotnet\\DotnetStockAPI\\DotnetStockAPI.csproj": {}
   },
   "projects": {
-    "d:\\WorkshopAngularDotnet\\DotnetStockAPI\\DotnetStockAPI.csproj": {
+    "D:\\WorkshopAngularDotnet\\DotnetStockAPI\\DotnetStockAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\WorkshopAngularDotnet\\DotnetStockAPI\\DotnetStockAPI.csproj",
+        "projectUniqueName": "D:\\WorkshopAngularDotnet\\DotnetStockAPI\\DotnetStockAPI.csproj",
         "projectName": "DotnetStockAPI",
-        "projectPath": "d:\\WorkshopAngularDotnet\\DotnetStockAPI\\DotnetStockAPI.csproj",
+        "projectPath": "D:\\WorkshopAngularDotnet\\DotnetStockAPI\\DotnetStockAPI.csproj",
         "packagesPath": "C:\\Users\\se571\\.nuget\\packages\\",
-        "outputPath": "d:\\WorkshopAngularDotnet\\DotnetStockAPI\\obj\\",
+        "outputPath": "D:\\WorkshopAngularDotnet\\DotnetStockAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
